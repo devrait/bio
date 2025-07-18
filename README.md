@@ -64,18 +64,17 @@ Built with accessibility in mind:
 Project Structure
 
 bio/
-
-├── assets/
-├── avatar.jpg
-├── background.jpg
-├── icon.png
-└── music.mp3
-├── css/
-└── styles.css
-├── js/
-└── particles-config.js
-├── index.html
-└── README.md
+  assets/
+    avatar.jpg
+    background.jpg
+    icon.png
+    music.mp3
+  css/
+    styles.css
+  js/
+    particles-config.js
+  index.html
+  README.md
 
 Contributing
 
