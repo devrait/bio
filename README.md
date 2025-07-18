@@ -67,21 +67,21 @@ bio/
 
 ├── assets/
 
-│   ├── avatar.jpg
+├── avatar.jpg
 
-│   ├── background.jpg
+│── background.jpg
 
-│   ├── icon.png
+├── icon.png
 
-│   └── music.mp3
+└── music.mp3
 
 ├── css/
 
-│   └── styles.css
+└── styles.css
 
 ├── js/
 
-│   └── particles-config.js
+└── particles-config.js
 
 ├── index.html
 
